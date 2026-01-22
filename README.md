@@ -3,8 +3,8 @@
 This project contains a simple Python script written to demonstrate basic program execution and output display. The program prints a standard greeting message to the console and serves as an introductory exercise in Python programming and GitHub usage.
 
 ## Student Information
-- **Name:** BENSON KINGSLEY IKECHUKWU  
-- **Matric Number:** 24/14677  
+- **Name:** OLUSEGUN SAMUEL AYODELE 
+- **Matric Number:** 24/14745  
 - **Department:** Computer Science
 
 ---
